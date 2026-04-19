@@ -18,11 +18,10 @@ This project analyzes Amazon sales data to uncover key insights on profitability
 ---
 
 ## 📌 Key Insights
-
-- South region achieved the highest profit margin despite higher discounts  
-- Strong positive correlation between discount and profit (~0.73)  
+  
 - Canada is underperforming compared to other regions  
-- High sales do not always lead to high profitability  
+- High sales do not always lead to high profitability
+- Top-selling products are not always the most profitable  
 
 ---
 
