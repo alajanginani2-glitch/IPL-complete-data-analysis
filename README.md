@@ -6,13 +6,13 @@ This project analyzes Amazon sales data to uncover key insights on profitability
 
 ## 📊 Dashboard Preview
 
-### 1. Sales Dashboard
+### 01_Sales Dashboard
 ![Dashboard](01_dashboard_overview.png)
 
-### 2. Sales & Profit Analysis
+### 02_Overview analysis
 ![Analysis](02_overview_analysis.png)
 
-### 3. Key Insights
+### 03_Key Insights
 ![Insights](03_key_insights.png)
 
 ---
